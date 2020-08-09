@@ -1,16 +1,29 @@
-### Hi there 👋
+<h2> Fala galera, sou Allef Sousa.</h2>
 
-<!--
-**allefss94/allefss94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 Sobre mim </h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 &nbsp; Graduando em Sistemas de Informação na Universidade Federal de Alagoas.
+- 💼 &nbsp; Trabalhando em projetos pessoais para construção de portfólio.
+- 🌱 &nbsp; Aprendendo sobre Clean Architecture, Design Patterns e Desenvolvimento Web.
+- ✍️ &nbsp; Sempre que possível escrevo artigos sobre os assuntos que venho estudando, estão lá no LinkedIn 😉.
+
+<h3>🛠 Tech Stack</h3>
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | VueJS
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git 
+
+
+<br/>
+
+[![allefss94's GitHub Stats](https://github-readme-stats.vercel.app/api?username=allefss94&show_icons=true)](https://github.com/AVS1508)
+
+<h3> 🤝🏻 Entre em contato comigo! </h3>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/allef-sousadev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/allefsousa.s/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:allefsousaicm1994@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
