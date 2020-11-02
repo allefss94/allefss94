@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | VueJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | VueJS
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git 
 
