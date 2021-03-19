@@ -6,12 +6,10 @@
 - 🎓 &nbsp; Graduando em Sistemas de Informação na Universidade Federal de Alagoas.
 - 💼 &nbsp; Trabalhando em projetos pessoais para construção de portfólio.
 - 🌱 &nbsp; Aprendendo sobre Clean Architecture, Design Patterns e Desenvolvimento Web.
-- ✍️ &nbsp; Sempre que possível escrevo artigos sobre os assuntos que venho estudando, estão lá no LinkedIn 😉.
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Node.js | VueJS
-- 🛢 &nbsp; MySQL | MongoDB
+- 🌐 &nbsp; HTML | CSS | JavaScript | VueJS
 - 🔧 &nbsp; Git 
 
 
